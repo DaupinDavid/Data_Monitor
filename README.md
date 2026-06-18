@@ -33,4 +33,5 @@ L'objectif était d'analyser le positionnement tarifaire et qualitatif d'Intersp
 ## 📂 Contenu du Répertoire
 * `scrapper.py` : Le code source de l'extracteur Python.
 * `donnees_brutes_total.csv` : L'échantillon de la base de données consolidée (1 849 lignes).
+* `data_monitor_analyse.xlsx` : Fichier de pré-traitement, de nettoyage matriciel et de Tableaux Croisés Dynamiques (TCD).
 * *Note : Les interfaces visuelles du tableau de bord (fichiers `.pbix`) et le rapport détaillé des insights stratégiques sont consultables sur mon portfolio.*
